@@ -7,10 +7,10 @@
 
 ## Установка
 
-1. `git clone <repository-url>` this repository
-2. change into the new directory
-3. `npm install`
-4. `bower install`
+1. `git clone https://github.com/owm-inc/ember-tasks.git` this repository
+2. `git checkout todo-list`
+3. `cd ember-tasks`
+4. `npm install && bower install`
 
 ## Запуск / Разработка
 
@@ -19,10 +19,10 @@
 
 ## Сохранить результат
 
-1. git checkout -b my_branch_name
-2. git add -A .
-3. git commit -a -m "some text"
-4. git push origin my_branch_name
+1. `git checkout -b my_branch_name`
+2. `git add -A .`
+3. `git commit -a -m "some text"`
+4. `git push origin my_branch_name`
 
 ### Генерация кода
 
