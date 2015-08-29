@@ -1,3 +1,7 @@
+## Как должно быть
+<hr/>
+<img src="https://raw.githubusercontent.com/owm-inc/ember-tasks/todo-list/public/img/rslt.gif" width="443" height="306"/>
+<hr/>
 ## Предустановка
 
 1. Install [node && npm](https://docs.npmjs.com/getting-started/installing-node#installing-node-js-and-updating-npm)
