@@ -1,6 +1,8 @@
 import Ember from 'ember';
 import ApplicationAdapter from './application';
 
+/* Иммитация взаимодействия с реальным backend сервером */
+
 export default ApplicationAdapter.extend({
   createRecord (store, type, snapshot) {
     var json = snapshot.serialize();

@@ -9,6 +9,6 @@ export default Ember.Controller.extend({
       //var todo = this.store.createRecord();
       //todo.save();
     },
-    delete (todo) {}
+    delete (/*todo*/) {}
   }
 });
